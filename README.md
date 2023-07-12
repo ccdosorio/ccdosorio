@@ -2,6 +2,9 @@
 
 ## I'm Software Engineer
 
+- 🔭 I’m currently working at Yalutec as Backend Developer Mid
+- 🤓 I’m currently learning AWS Cloud
+- ⚽ I love practicing soccer
 <!--
 **ccdosorio/ccdosorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
