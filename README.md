@@ -18,6 +18,7 @@ skills and tools to improve my capabilities.
   <img src="https://cdn.iconscout.com/icon/free/png-512/angular-226066.png" alt="Angular" width="25" />
   <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" width="25" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" width="25" />
+  <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" width="25" />
 </div>
 
 
