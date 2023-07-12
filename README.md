@@ -11,8 +11,10 @@ skills and tools to improve my capabilities.
 
 ### Programming languages and Frameworks:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="25" />
+<div>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="JavaScript" width="25" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript" width="25" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="NodeJs" width="25" />
 </div>
 
 
