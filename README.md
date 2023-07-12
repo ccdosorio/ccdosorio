@@ -24,6 +24,7 @@ skills and tools to improve my capabilities.
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/christianosori0/)
+- [Email](mailto:ccdosorio11@gmail.com)
 
 
 
