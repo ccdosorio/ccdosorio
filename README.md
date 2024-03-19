@@ -2,7 +2,7 @@
 
 ## I'm Software Engineer
 
-Full-Stack developer with more than 4 years of experience. I consider myself a committed person with a lot of passion for programming, I love being constantly learning and acquiring new
+Full-Stack developer with more than 6 years of experience. I consider myself a committed person with a lot of passion for programming, I love being constantly learning and acquiring new
 skills and tools to improve my capabilities.
 
 - 🔭 I’m currently working at Yalutec as Backend Developer Mid
