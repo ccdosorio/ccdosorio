@@ -5,7 +5,7 @@
 Full-Stack developer with more than 6 years of experience. I consider myself a committed person with a lot of passion for programming, I love being constantly learning and acquiring new
 skills and tools to improve my capabilities.
 
-- 🔭 I’m currently working at Banco Industrial, S.A. as Backend Developer Sr
+- 🔭 I’m currently working at Grupo Cemaco, S.A. as Backend Developer Sr Lead
 - 🤓 I’m currently learning AWS Cloud
 - ⚽ I love practicing soccer
 
